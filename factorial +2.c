@@ -13,3 +13,5 @@ for (i=1; i<=num; i=i+2){
 	}
 	return 0;
 }
+// Name-Rihanshu U. Mate.
+// PRN No-2503033111378UD030  
